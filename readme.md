@@ -8,10 +8,12 @@ https://over2craft.fr/
 
 You can use those icon in your navbar (or anywhere else) by adding <i> element with the right class
 ![example there](https://zupimages.net/up/21/36/7c0u.png)
+  
+For example `<i class="mc-icon mc-icon-bed_head_top"></i> Home`
 
 You can see all available icons [here](https://calig.one/mc-icons/)
 
-And bit of documentation [here](https://calig.one/mc-icons/)
+And bit of documentation [here](https://github.com/Caligone/mc-icons#mc-icons)
 
 # Notes
 * Note You don't need to add stylsheet by yourself, the plugin deal with that for you. 
