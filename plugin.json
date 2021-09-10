@@ -1,0 +1,14 @@
+{
+    "id": "mc-icons",
+    "name": "mc-icons",
+    "description": "Plugin for Azuriom",
+    "version": "1.0.0",
+    "url": "https://azuriom.com",
+    "authors": [
+        "Azuriom"
+    ],
+    "providers": [
+        "\\Azuriom\\Plugin\\McIcons\\Providers\\McIconsServiceProvider",
+        "\\Azuriom\\Plugin\\McIcons\\Providers\\RouteServiceProvider"
+    ]
+}
